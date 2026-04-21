@@ -67,7 +67,6 @@ Le lab contient :
 
 * Ping entre PC1 et PC2 
 * Communication inter-VLAN fonctionnelle
-* ![Topologie](screenshots/ping different vlan.jpeg)
 
 ---
 
